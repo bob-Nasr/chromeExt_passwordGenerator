@@ -1,0 +1,20 @@
+body{
+    height: max-content;
+}
+
+.pref {
+  margin: 1%;
+}
+
+.buttons {
+  margin: 1%;
+}
+
+#passwordOutput {
+  display: flex;
+  align-items: center;
+  margin: 1%;
+  width: 200px;
+  height: 30px;
+  border: 2px black solid;
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Password Generator",
+    "version": "1.0.0",
+    "description": "Random password generator",
+    "manifest_version": 3,
+    "author": "Ibrahim Nasr",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Password Generator"
+    }
+}
